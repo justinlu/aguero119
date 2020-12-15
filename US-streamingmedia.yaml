@@ -1,16 +1,124 @@
-- DOMAIN-SUFFIX,tv.youtube.com,US-streamingmedia
-- DOMAIN-SUFFIX,tinypass.com,US-streamingmedia
-- DOMAIN-SUFFIX,sprtsecureassets.akamaized.net,US-streamingmedia
-- DOMAIN-SUFFIX,akamaihd.net,US-streamingmedia
-- DOMAIN-SUFFIX,hbonow.com,US-streamingmedia
-- DOMAIN-SUFFIX,hbomax.com,US-streamingmedia
-- DOMAIN-SUFFIX,hbomax.tv,US-streamingmedia
-- DOMAIN-SUFFIX,hulu.com,US-streamingmedia
-- DOMAIN-SUFFIX,huluim.com,US-streamingmedia
-- DOMAIN-SUFFIX,hulustream.com,US-streamingmedia
-- DOMAIN-SUFFIX,sling.com,US-streamingmedia
-- DOMAIN-SUFFIX,peacocktv.com,US-streamingmedia
-- DOMAIN-SUFFIX,espn.com,US-streamingmedia
-- DOMAIN-SUFFIX,fubo.tv,US-streamingmedia
-- DOMAIN-SUFFIX,nbcsports.com,US-streamingmedia
-- DOMAIN-SUFFIX,spoprod-a.akamaihd.net,US-streamingmedia
+payload:  
+  # > US-streamingmedia
+  - IP-CIDR,104.84.224.117/32 
+  - IP-CIDR,35.163.204.80/32 
+  - IP-CIDR,104.80.202.187/32 
+  - IP-CIDR,75.126.33.156/32 
+  - DOMAIN-KEYWORD,fubo 
+  - DOMAIN-KEYWORD,peacock 
+  - DOMAIN-SUFFIX,kochava.com 
+  - DOMAIN-KEYWORD,espn 
+  - DOMAIN-SUFFIX,sling.com 
+  - DOMAIN-SUFFIX,app.link 
+  - DOMAIN-SUFFIX,bam.nr-data.net 
+  - DOMAIN-SUFFIX,google-analytics.com 
+  - DOMAIN-SUFFIX,edgedatg.com 
+  - DOMAIN-SUFFIX,edgedatg.com 
+  - DOMAIN-SUFFIX,amazonaws.com 
+  - DOMAIN-SUFFIX,amazonvideo.com 
+  - DOMAIN-SUFFIX,primevideo.com 
+  - DOMAIN,avodmp4s3ww-a.akamaihd.net 
+  - DOMAIN,dfp6rglgjqszk.cloudfront.net 
+  - DOMAIN,d1o0eticbdzpr9.cloudfront.net 
+  - DOMAIN,d2tycn7nnoiglw.cloudfront.net 
+  - DOMAIN,d25xi40x97liuc.cloudfront.net 
+  - DOMAIN,dmqdd6hw24ucf.cloudfront.net 
+  - DOMAIN,dmqdd6hw24ucf.cloudfront.net 
+  - DOMAIN,d22qjgkvxw22r6.cloudfront.net 
+  - DOMAIN,d1v5ir2lpwr8os.cloudfront.net 
+  - DOMAIN-KEYWORD,avoddashs 
+  - DOMAIN-SUFFIX,intercom.io 
+  - DOMAIN-SUFFIX,go.com 
+  - DOMAIN,global.edge.bamgrid.com 
+  - DOMAIN-SUFFIX,cdn.unid.go.com 
+  - DOMAIN-SUFFIX,bamgrid.com 
+  - DOMAIN-SUFFIX,optimizely.com 
+  - DOMAIN-SUFFIX,brightcove.net 
+  - DOMAIN-SUFFIX,braze.com 
+  - DOMAIN-SUFFIX,conviva.com 
+  - DOMAIN-SUFFIX,disney.demdex.net 
+  - DOMAIN-SUFFIX,theplatform.com 
+  - DOMAIN-SUFFIX,aternity.com 
+  - DOMAIN-SUFFIX,cloudflare.com 
+  - DOMAIN-SUFFIX,disneyplus.com 
+  - DOMAIN-SUFFIX,disney-plus.net 
+  - DOMAIN-SUFFIX,dssott.com 
+  - DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com 
+  - DOMAIN-SUFFIX,encoretvb.com 
+  - DOMAIN,edge.api.brightcove.com 
+  - DOMAIN,bcbolt446c5271-a.akamaihd.net 
+  - DOMAIN-SUFFIX,foxvideo.akamaized.net 
+  - DOMAIN-SUFFIX,fox.com 
+  - DOMAIN-SUFFIX,foxdcg.com 
+  - DOMAIN-SUFFIX,x-live-fox-stgec.uplynk.com 
+  - DOMAIN-SUFFIX,static.chartbeat.com 
+  - DOMAIN-SUFFIX,pandora.com 
+  - DOMAIN-SUFFIX,phncdn.com 
+  - DOMAIN-SUFFIX,phprcdn.com 
+  - DOMAIN-SUFFIX,pornhub.com 
+  - DOMAIN-SUFFIX,pornhubpremium.com 
+  - DOMAIN-SUFFIX,vidible.tv 
+  - DOMAIN-SUFFIX,ggpht.com 
+  - DOMAIN-SUFFIX,cognito-identity.us-east-1.amazonaws.com 
+  - DOMAIN-SUFFIX,aax-us-east.amazon-adsystem.com 
+  - DOMAIN-SUFFIX,api.amazonalexa.com 
+  - DOMAIN-SUFFIX,mobileanalytics.us-east-1.amazonaws.com 
+  - DOMAIN-SUFFIX,ytimg.com 
+  - DOMAIN-SUFFIX,tinypass.com 
+  - DOMAIN-SUFFIX,sprtsecureassets.akamaized.net 
+  - DOMAIN-SUFFIX,akamaihd.net 
+  - DOMAIN-SUFFIX,hbonow.com 
+  - DOMAIN-SUFFIX,hbomax.com 
+  - DOMAIN-SUFFIX,hbomax.tv 
+  - DOMAIN-SUFFIX,nbcsports.com 
+  - DOMAIN-SUFFIX,token.playmakerservices.com 
+  - DOMAIN-SUFFIX,olympicchannel.akamaized.net 
+  - DOMAIN-SUFFIX,nbcu.demdex.net 
+  - DOMAIN-SUFFIX,access-cloudpath.media.nbcuni.com 
+  - DOMAIN-SUFFIX,api.us-east-1.aiv-delivery.net 
+  - DOMAIN-SUFFIX,live-playphoto.servers.kwalee.com 
+  - DOMAIN-SUFFIX,izooto.com 
+  - DOMAIN-SUFFIX,skk.moe 
+  - DOMAIN-SUFFIX,api.skk.moe 
+  - DOMAIN-SUFFIX,hivestream.com 
+  - DOMAIN-SUFFIX,hivestreaming.com 
+  - DOMAIN-SUFFIX,api.auth.adobe.com 
+  - DOMAIN-SUFFIX,api.ipify.org 
+  - DOMAIN-SUFFIX,m.media-amazon.com 
+  - DOMAIN,cdn-gl.imrworldwide.com 
+  - DOMAIN-SUFFIX,spoprod-a.akamaihd.net 
+  - DOMAIN-SUFFIX,amazon.co 
+  - DOMAIN-SUFFIX,amazon.com 
+  - DOMAIN-SUFFIX,footprintdns.com 
+  - DOMAIN-SUFFIX,amazonaws.com 
+  - DOMAIN-SUFFIX,tiktokv.com 
+  - DOMAIN-SUFFIX,byteoversea.com 
+  - DOMAIN-SUFFIX,ibytedtos.com 
+  - DOMAIN-SUFFIX,ipstatp.com 
+  - DOMAIN-SUFFIX,tiktok.com 
+  - DOMAIN-SUFFIX,tiktokcdn.com 
+  - DOMAIN-SUFFIX,muscdn.com 
+  - DOMAIN-SUFFIX,musical.ly 
+  - DOMAIN-SUFFIX,go.com 
+  - DOMAIN-SUFFIX,nih.gov 
+  - DOMAIN-SUFFIX,hulu.com 
+  - DOMAIN-SUFFIX,huluim.com 
+  - DOMAIN-SUFFIX,hulustream.com 
+  - DOMAIN-KEYWORD,hulu 
+  - DOMAIN-KEYWORD,cedexis 
+  - DOMAIN-KEYWORD,cbs 
+  - DOMAIN-SUFFIX,imrworldwide.com 
+  - DOMAIN-SUFFIX,benchmark.1e100cdn.net 
+  - DOMAIN,d.impactradius-event.com 
+  - DOMAIN-SUFFIX,showtime.com 
+  - DOMAIN-SUFFIX,scorecardresearch.com 
+  - DOMAIN-SUFFIX,optimicdn.com 
+  - DOMAIN-SUFFIX,mtvnservices.com 
+  - DOMAIN-SUFFIX,cookielaw.org 
+  - DOMAIN-SUFFIX,secure.adnxs.com 
+  - DOMAIN-SUFFIX,showtime.com 
+  - DOMAIN-SUFFIX,mathtag.com 
+  - DOMAIN,zz.connextra.com 
+  - DOMAIN,cdn.branch.io 
+  - DOMAIN-SUFFIX,d2tycn7nnoiglw.cloudfront.net 
+  - DOMAIN-SUFFIX,cloudfront.net
