@@ -100,11 +100,7 @@ payload:
   - DOMAIN-SUFFIX,muscdn.com 
   - DOMAIN-SUFFIX,musical.ly 
   - DOMAIN-SUFFIX,go.com 
-  - DOMAIN-SUFFIX,nih.gov 
-  - DOMAIN-SUFFIX,hulu.com 
-  - DOMAIN-SUFFIX,huluim.com 
-  - DOMAIN-SUFFIX,hulustream.com 
-  - DOMAIN-KEYWORD,hulu 
+  - DOMAIN-SUFFIX,nih.gov  
   - DOMAIN-KEYWORD,cedexis 
   - DOMAIN-KEYWORD,cbs 
   - DOMAIN-SUFFIX,imrworldwide.com 
