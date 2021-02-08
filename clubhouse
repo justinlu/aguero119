@@ -1,0 +1,8 @@
+payload:  
+  # > CLUBHOUSE
+  - DOMAIN-SUFFIX,www.clubhouseapi.com
+  - DOMAIN-SUFFIX,clubhouseprod.s3.amazonaws.com
+  - DOMAIN-SUFFIX,clubhouse.pubnub.com
+  - DOMAIN-SUFFIX,maintenance.joinclubhouse.com
+  - DOMAIN-KEYWORD,clubhouse
+ 
