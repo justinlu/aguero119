@@ -8,7 +8,11 @@ payload:
   - DOMAIN-KEYWORD,peacock 
   - DOMAIN-SUFFIX,kochava.com 
   - DOMAIN-KEYWORD,espn 
-  - DOMAIN-SUFFIX,sling.com 
+  - DOMAIN-SUFFIX,sling.com
+  - DOMAIN-SUFFIX,fireoscaptiveportal.com
+  - DOMAIN-SUFFIX,movetv.com
+  - DOMAIN-SUFFIX,msedge.net
+  - DOMAIN-SUFFIX,launchdarkly.com
   - DOMAIN-SUFFIX,app.link 
   - DOMAIN-SUFFIX,bam.nr-data.net 
   - DOMAIN-SUFFIX,google-analytics.com 
