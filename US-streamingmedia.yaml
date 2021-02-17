@@ -11,12 +11,13 @@ payload:
   - DOMAIN-SUFFIX,sling.com
   - DOMAIN-SUFFIX,fireoscaptiveportal.com
   - DOMAIN-SUFFIX,movetv.com
+  - DOMAIN-SUFFIX,cloudfunctions.net
+  - DOMAIN-KEYWORD,movetv
   - DOMAIN-SUFFIX,msedge.net
   - DOMAIN-SUFFIX,launchdarkly.com
   - DOMAIN-SUFFIX,app.link 
   - DOMAIN-SUFFIX,bam.nr-data.net 
   - DOMAIN-SUFFIX,google-analytics.com 
-  - DOMAIN-SUFFIX,edgedatg.com 
   - DOMAIN-SUFFIX,edgedatg.com 
   - DOMAIN,avodmp4s3ww-a.akamaihd.net 
   - DOMAIN,dfp6rglgjqszk.cloudfront.net 
