@@ -16,6 +16,9 @@ payload:
   - DOMAIN-SUFFIX,cloudfunctions.net
   - DOMAIN-SUFFIX,movenetworks.com
   - DOMAIN-KEYWORD,movetv
+  - DOMAIN-SUFFIX,foxvideo.net
+  - DOMAIN-SUFFIX,firetvcaptiveportal.com
+  - DOMAIN,src.litix.io
   - DOMAIN-SUFFIX,msedge.net
   - DOMAIN-SUFFIX,launchdarkly.com
   - DOMAIN-SUFFIX,app.link 
