@@ -9,9 +9,12 @@ payload:
   - DOMAIN-SUFFIX,kochava.com 
   - DOMAIN-KEYWORD,espn 
   - DOMAIN-SUFFIX,sling.com
+  - DOMAIN-SUFFIX,dishworld.com
+  - DOMAIN-SUFFIX,slinginternational.com
   - DOMAIN-SUFFIX,fireoscaptiveportal.com
   - DOMAIN-SUFFIX,movetv.com
   - DOMAIN-SUFFIX,cloudfunctions.net
+  - DOMAIN-SUFFIX,movenetworks.com
   - DOMAIN-KEYWORD,movetv
   - DOMAIN-SUFFIX,msedge.net
   - DOMAIN-SUFFIX,launchdarkly.com
