@@ -114,3 +114,5 @@ payload:
   - DOMAIN,cdn.branch.io 
   - DOMAIN-SUFFIX,d2tycn7nnoiglw.cloudfront.net 
   - DOMAIN-SUFFIX,cloudfront.net
+  - DOMAIN-SUFFIX,discoveryplus.com
+  - DOMAIN-SUFFIX,disco-api.com  
