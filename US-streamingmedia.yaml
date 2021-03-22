@@ -35,6 +35,7 @@ payload:
   - DOMAIN,d22qjgkvxw22r6.cloudfront.net 
   - DOMAIN,d1v5ir2lpwr8os.cloudfront.net 
   - DOMAIN-KEYWORD,avoddashs 
+  - DOMAIN-KEYWORD,sling
   - DOMAIN-SUFFIX,intercom.io 
   - DOMAIN-SUFFIX,go.com 
   - DOMAIN,global.edge.bamgrid.com 
