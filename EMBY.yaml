@@ -2,4 +2,4 @@ payload:
 # EMBY
   - DOMAIN-SUFFIX,emby.run
   - DOMAIN,http://emby.run
-  - DOMAIN-KEYWORD,emby
+
